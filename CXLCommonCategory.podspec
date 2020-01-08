@@ -13,9 +13,9 @@ Pod::Spec.new do |spec|
   spec.summary      = "A short description of CXLCategory."
   spec.description  = "A description of CXLCategory."
   spec.homepage     = "https://github.com/CaoXueLiang/CXLCategory"
-  spec.license      = "MIT"
+  s.license         = "MIT"
+  s.author          = { "曹学亮" => "2357747972@qq.com" }
   s.platform        = :ios
-  spec.author       = { "caoXueLiang" => "2357747972@qq.com" }
   spec.source       = { :git => "https://github.com/CaoXueLiang/CXLCategory.git", :tag => "0.01"}
   s.source_files = 'CXLCommonCategory/*.{h,m}'
   s.requires_arc = true
