@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/CaoXueLiang/CXLCategory"
   spec.license      = "MIT"
   spec.author       = { "caoXueLiang" => "2357747972@qq.com" }
-  spec.source       = { :git => "https://github.com/CaoXueLiang/CXLCategory.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/CaoXueLiang/CXLCategory.git", :tag => "0.01"}
   s.source_files = 'CXLCategory/*.{h,m}'
   s.requires_arc = true
 end
