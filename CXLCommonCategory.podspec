@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "CXLCategory"
+  spec.name         = "CXLCommonCategory"
   spec.version      = "0.0.1"
   spec.summary      = "A short description of CXLCategory."
   spec.description  = "A description of CXLCategory."
