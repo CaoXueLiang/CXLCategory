@@ -7,12 +7,11 @@
 #
 
 Pod::Spec.new do |spec|
-
-  spec.name         = "CXLCommonCategory"
-  spec.version      = "0.0.1"
-  spec.summary      = "A short description of CXLCategory."
-  spec.description  = "A description of CXLCategory."
-  spec.homepage     = "https://github.com/CaoXueLiang/CXLCategory"
+  s.name         = "CXLCommonCategory"
+  s.version      = "0.0.1"
+  s.summary      = "A short description of CXLCategory."
+  s.description  = "A description of CXLCategory."
+  s.homepage     = "https://github.com/CaoXueLiang/CXLCategory"
   s.license         = "MIT"
   s.author          = { "曹学亮" => "2357747972@qq.com" }
   s.platform        = :ios
