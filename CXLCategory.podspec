@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "CXLCategory"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of CXLCategory."
+  spec.summary      = "CXLCategory."
   spec.homepage     = "https://github.com/CaoXueLiang/CXLCategory"
   spec.license      = "MIT"
   spec.platform     = :ios
