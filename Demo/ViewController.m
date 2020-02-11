@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import <CXLCategory/UIView+CornerRadio.h>
 
 @interface ViewController ()
 
@@ -16,7 +17,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    
+    
+    UIView *tmpView = [[UIView alloc]initWithFrame:CGRectMake(100, 200, 100, 100)];
+    tmpView.backgroundColor = [UIColor purpleColor];
+    [self.view addSubview:tmpView];
+    [tmpView cxl_setCorner:UIRectCornerTopLeft radio:40];
 }
 
 

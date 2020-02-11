@@ -1,0 +1,16 @@
+PODS:
+  - CXLCategory (0.0.1)
+
+DEPENDENCIES:
+  - CXLCategory
+
+SPEC REPOS:
+  trunk:
+    - CXLCategory
+
+SPEC CHECKSUMS:
+  CXLCategory: 369a7053fba134dc56be4919f4635d19585eed2d
+
+PODFILE CHECKSUM: 7d06e8983addeb92dc6d674ee21e24e1cede36eb
+
+COCOAPODS: 1.8.4
